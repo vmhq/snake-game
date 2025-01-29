@@ -1,5 +1,4 @@
 # Snake Game
-
 A classic Snake game implemented in JavaScript with HTML5 Canvas.
 
 ## Features
